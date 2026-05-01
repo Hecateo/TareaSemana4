@@ -10,7 +10,7 @@ namespace Tarea4
     {
         static void Main(string[] args)
         {
-            player InciarJuego = new player();
+            Player InciarJuego = new Player();
             InciarJuego.execute();
         }
     }
