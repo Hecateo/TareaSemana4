@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "E:\\Tarea4\\TareaSemana4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68924DB3-364D-4197-A7A8-08CB6ADA9ED8}|Tarea4.csproj|e:\\tarea4\\tareasemana4\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68924DB3-364D-4197-A7A8-08CB6ADA9ED8}|Tarea4.csproj|solutionrelative:text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68924DB3-364D-4197-A7A8-08CB6ADA9ED8}|Tarea4.csproj|E:\\Tarea4\\TareaSemana4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68924DB3-364D-4197-A7A8-08CB6ADA9ED8}|Tarea4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "text.cs",
-              "DocumentMoniker": "E:\\Tarea4\\TareaSemana4\\text.cs",
-              "RelativeDocumentMoniker": "text.cs",
-              "ToolTip": "E:\\Tarea4\\TareaSemana4\\text.cs",
-              "RelativeToolTip": "text.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAwwDkAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T03:38:46.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Tarea4\\TareaSemana4\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Tarea4\\TareaSemana4\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T03:38:31.2Z",
+              "WhenOpened": "2026-05-01T04:17:03.409Z",
               "EditorCaption": ""
             }
           ]
