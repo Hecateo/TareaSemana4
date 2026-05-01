@@ -11,7 +11,7 @@ namespace Tarea4
         static void Main(string[] args)
         {
             Player InciarJuego = new Player();
-            InciarJuego.execute();
+            InciarJuego.run();
         }
     }
 }

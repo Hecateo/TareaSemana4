@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Tarea4
 {
-    internal class text:player
+    internal class text:Player
     {
-        public void player(playername, lifePlayer)
+        public void Player(string playername)
         {
             int opcion;
             Console.WriteLine($"{playername} despiertas en un bosque y te empieza a dar sed, por un lado vez un charco de agua y en otro lado vez arriba de una roca un vaso de agua");
@@ -21,7 +21,9 @@ namespace Tarea4
             }
             else
             {
+                lifePlayer--;
                 Console.WriteLine($"bebes agua del charco, te sientes un poco mal (te quefan {lifePlayer} vidas)");
+
             }
 
             Console.WriteLine($"{playername} te empieza a dar hambre vez una manzana en el suelo y en otro lado vez un bistec");
@@ -30,6 +32,7 @@ namespace Tarea4
             opcion = int.Parse(Console.ReadLine());
             if (opcion == 1)
             {
+                lifePlayer--;
                 Console.WriteLine($"al agarar el bistec una trampa de oso te atrapa la mano , sin embargo logras sacar la mano con el bistec(tu vida actual es {lifePlayer})");
             }
             else

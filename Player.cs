@@ -10,12 +10,14 @@ namespace Tarea4
     internal class Player
     {
         public string playername;
-        public int life=3;
+        public int lifePlayer = 3;
         public void run()
         {
             Console.WriteLine("Introdusca su nombre:");
             playername = Console.ReadLine();
-            Console.WriteLine($"Su nombre es {playername} y su cantidad de vida es {life}");
+            Console.WriteLine($"Su nombre es {playername} y su cantidad de vida es {lifePlayer}");
+            text gotext = new text();
+            gotext.Player(playername);
         }
 
     }
